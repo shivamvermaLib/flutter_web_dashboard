@@ -25,4 +25,4 @@ class MyApp extends StatelessWidget {
   }
 }
 
-enum Routes { home }
+enum Routes { home, splash }
